@@ -1,0 +1,58 @@
+C:\Users\hpc_4\Downloads\Unity Drag and Drop Tutorial - Part 3\Unity Drag and Drop Tutorial - Part 3\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\hpc_4\Downloads\Unity Drag and Drop Tutorial - Part 3\Unity Drag and Drop Tutorial - Part 3\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\hpc_4\Downloads\Unity Drag and Drop Tutorial - Part 3\Unity Drag and Drop Tutorial - Part 3\Temp\bin\Debug\UnityEditor.dll
+C:\Users\hpc_4\Downloads\Unity Drag and Drop Tutorial - Part 3\Unity Drag and Drop Tutorial - Part 3\Temp\bin\Debug\UnityEngine.Analytics.dll
+C:\Users\hpc_4\Downloads\Unity Drag and Drop Tutorial - Part 3\Unity Drag and Drop Tutorial - Part 3\Temp\bin\Debug\UnityEngine.dll
+C:\Users\hpc_4\Downloads\Unity Drag and Drop Tutorial - Part 3\Unity Drag and Drop Tutorial - Part 3\Temp\bin\Debug\UnityEngine.HoloLens.dll
+C:\Users\hpc_4\Downloads\Unity Drag and Drop Tutorial - Part 3\Unity Drag and Drop Tutorial - Part 3\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\hpc_4\Downloads\Unity Drag and Drop Tutorial - Part 3\Unity Drag and Drop Tutorial - Part 3\Temp\bin\Debug\UnityEngine.PlaymodeTestsRunner.dll
+C:\Users\hpc_4\Downloads\Unity Drag and Drop Tutorial - Part 3\Unity Drag and Drop Tutorial - Part 3\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\hpc_4\Downloads\Unity Drag and Drop Tutorial - Part 3\Unity Drag and Drop Tutorial - Part 3\Temp\bin\Debug\UnityEngine.VR.dll
+C:\Users\hpc_4\Downloads\Unity Drag and Drop Tutorial - Part 3\Unity Drag and Drop Tutorial - Part 3\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\hpc_4\Downloads\Unity Drag and Drop Tutorial - Part 3\Unity Drag and Drop Tutorial - Part 3\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\hpc_4\Downloads\Unity Drag and Drop Tutorial - Part 3\Unity Drag and Drop Tutorial - Part 3\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\hpc_4\Downloads\Unity Drag and Drop Tutorial - Part 3\Unity Drag and Drop Tutorial - Part 3\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\hpc_4\Downloads\Unity Drag and Drop Tutorial - Part 3\Unity Drag and Drop Tutorial - Part 3\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\hpc_4\Downloads\Unity Drag and Drop Tutorial - Part 3\Unity Drag and Drop Tutorial - Part 3\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\hpc_4\Downloads\Unity Drag and Drop Tutorial - Part 3\Unity Drag and Drop Tutorial - Part 3\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\hpc_4\Downloads\Unity Drag and Drop Tutorial - Part 3\Unity Drag and Drop Tutorial - Part 3\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\hpc_4\Downloads\Unity Drag and Drop Tutorial - Part 3\Unity Drag and Drop Tutorial - Part 3\Temp\bin\Debug\UnityEngine.xml
+C:\Users\hpc_4\Downloads\Unity Drag and Drop Tutorial - Part 3\Unity Drag and Drop Tutorial - Part 3\Temp\bin\Debug\UnityEditor.xml
+C:\Users\hpc_4\Downloads\Unity Drag and Drop Tutorial - Part 3\Unity Drag and Drop Tutorial - Part 3\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\hpc_4\Downloads\Unity Drag and Drop Tutorial - Part 3\Unity Drag and Drop Tutorial - Part 3\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\hpc_4\Downloads\Unity Drag and Drop Tutorial - Part 3\Unity Drag and Drop Tutorial - Part 3\Temp\bin\Debug\UnityEngine.PlaymodeTestsRunner.xml
+C:\Users\hpc_4\Downloads\Unity Drag and Drop Tutorial - Part 3\Unity Drag and Drop Tutorial - Part 3\Temp\bin\Debug\UnityEngine.Analytics.xml
+C:\Users\hpc_4\Downloads\Unity Drag and Drop Tutorial - Part 3\Unity Drag and Drop Tutorial - Part 3\Temp\bin\Debug\UnityEngine.HoloLens.xml
+C:\Users\hpc_4\Downloads\Unity Drag and Drop Tutorial - Part 3\Unity Drag and Drop Tutorial - Part 3\Temp\bin\Debug\UnityEngine.VR.xml
+C:\Users\hpc_4\Downloads\Unity Drag and Drop Tutorial - Part 3\Unity Drag and Drop Tutorial - Part 3\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\hpc_4\Downloads\Unity Drag and Drop Tutorial - Part 3\Unity Drag and Drop Tutorial - Part 3\obj\Debug\Assembly-CSharp.dll
+C:\Users\hpc_4\Downloads\Unity Drag and Drop Tutorial - Part 3\Unity Drag and Drop Tutorial - Part 3\obj\Debug\Assembly-CSharp.pdb
+C:\Project\fapc2017\projectRv\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Project\fapc2017\projectRv\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Project\fapc2017\projectRv\Temp\bin\Debug\UnityEditor.dll
+C:\Project\fapc2017\projectRv\Temp\bin\Debug\UnityEngine.Analytics.dll
+C:\Project\fapc2017\projectRv\Temp\bin\Debug\UnityEngine.dll
+C:\Project\fapc2017\projectRv\Temp\bin\Debug\UnityEngine.HoloLens.dll
+C:\Project\fapc2017\projectRv\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Project\fapc2017\projectRv\Temp\bin\Debug\UnityEngine.PlaymodeTestsRunner.dll
+C:\Project\fapc2017\projectRv\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Project\fapc2017\projectRv\Temp\bin\Debug\UnityEngine.VR.dll
+C:\Project\fapc2017\projectRv\Temp\bin\Debug\Mono.Cecil.dll
+C:\Project\fapc2017\projectRv\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Project\fapc2017\projectRv\Temp\bin\Debug\Unity.DataContract.dll
+C:\Project\fapc2017\projectRv\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Project\fapc2017\projectRv\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Project\fapc2017\projectRv\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Project\fapc2017\projectRv\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Project\fapc2017\projectRv\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Project\fapc2017\projectRv\Temp\bin\Debug\UnityEngine.xml
+C:\Project\fapc2017\projectRv\Temp\bin\Debug\UnityEditor.xml
+C:\Project\fapc2017\projectRv\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Project\fapc2017\projectRv\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Project\fapc2017\projectRv\Temp\bin\Debug\UnityEngine.PlaymodeTestsRunner.xml
+C:\Project\fapc2017\projectRv\Temp\bin\Debug\UnityEngine.Analytics.xml
+C:\Project\fapc2017\projectRv\Temp\bin\Debug\UnityEngine.HoloLens.xml
+C:\Project\fapc2017\projectRv\Temp\bin\Debug\UnityEngine.VR.xml
+C:\Project\fapc2017\projectRv\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Project\fapc2017\projectRv\obj\Debug\Assembly-CSharp.dll
+C:\Project\fapc2017\projectRv\obj\Debug\Assembly-CSharp.pdb
