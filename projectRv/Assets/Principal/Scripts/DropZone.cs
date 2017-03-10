@@ -28,17 +28,20 @@ public class DropZone : MonoBehaviour, IDropHandler, IPointerEnterHandler, IPoin
 	
 	public void OnDrop(PointerEventData eventData) {
 
+        Vector3 pos = Input.mousePosition;
+
         //if (img.rect.Contains(img.InverseTransformPoint(Input.mousePosition)){ }
-        Debug.Log (eventData.pointerDrag.name + " was dropped on " + gameObject.name + " Mouse Position " + Input.mousePosition);
+        Debug.Log (eventData.pointerDrag.name + " was dropped on " + gameObject.name + " Mouse Position " + pos);
 
         // eventData.pointerDrag: represent the object in movement.
         Debug.Log(eventData.pointerDrag.transform.position + "   :) ");
-
+        
         //gameObject: represent to panel.
 
         Draggable d = eventData.pointerDrag.GetComponent<Draggable>();
-        if (d != null)
+        if (d != null && gameObject.GetComponent<RectTransform>().rect.Contains(pos))
         {
+            print(" Dentro ::: ");
             d.parentToReturnTo = this.transform;
         }
 
@@ -50,7 +53,7 @@ public class DropZone : MonoBehaviour, IDropHandler, IPointerEnterHandler, IPoin
         */
 
         //print(" Height Panel:   " + gameObject.GetComponent<RectTransform>().rect.height*0.374769);
-        print(" MeshRenderer Panel:   " + gameObject.GetComponent<MeshFilter>().mesh.bounds);
+        //print(" MeshRenderer Panel:   " + gameObject.GetComponent<MeshFilter>().mesh.bounds);
 
 
 

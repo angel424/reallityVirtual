@@ -13,6 +13,8 @@ public class Draggable : MonoBehaviour, IBeginDragHandler, IDragHandler, IEndDra
 	public Vector3 initialPosition;
 	
 	public void OnBeginDrag(PointerEventData eventData) {
+        Block block = new Block();
+
 		Debug.Log ("OnBeginDrag");
 		
 		placeholder = new GameObject();
@@ -34,11 +36,34 @@ public class Draggable : MonoBehaviour, IBeginDragHandler, IDragHandler, IEndDra
 		//---------------->
 		initialPosition = this.GetComponent<RectTransform>().position;
 
+        //--------------> Variable of GameObject
+
+        print("center:  " + this.GetComponent<RectTransform>().rect.center);
+        print("height:  " + this.GetComponent<RectTransform>().rect.height);
+        print("max:  " + this.GetComponent<RectTransform>().rect.max);
+        print("min:  " + this.GetComponent<RectTransform>().rect.min);
+        print("position:  " + this.GetComponent<RectTransform>().rect.position);
+        print("size:  " + this.GetComponent<RectTransform>().rect.size);
+        print("width:  " + this.GetComponent<RectTransform>().rect.width);
+        print("x: " + this.GetComponent<RectTransform>().rect.x);
+        print("xMax:  " + this.GetComponent<RectTransform>().rect.xMax);
+        print("xMin:  " + this.GetComponent<RectTransform>().rect.xMin);
+        print("y: " + this.GetComponent<RectTransform>().rect.y);
+        print("yMax:  " + this.GetComponent<RectTransform>().rect.yMax);
+        print("yMin:  " + this.GetComponent<RectTransform>().rect.yMin);
+
+        print(" ");
+
 	}
 	
     //When this is in movent 
 	public void OnDrag(PointerEventData eventData) {
-        Debug.Log ("OnDrag" + " Mouse Position " + Input.mousePosition);
+        //Debug.Log ("OnDrag" + " Mouse Position " + Input.mousePosition + "Block position:  " + this.GetComponent<RectTransform>().rect.position);
+        //Debug.Log ()
+        this.GetComponent<Block>().updatePoints();
+
+        Debug.Log("Block P1:  " + this.GetComponent<Block>().getP1());
+        Debug.Log("Block P2:  " + this.GetComponent<Block>().getP2());
 
         this.transform.position = eventData.position;
 

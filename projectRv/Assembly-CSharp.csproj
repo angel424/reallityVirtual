@@ -46,6 +46,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\Principal\Scripts\Block.cs" />
      <Compile Include="Assets\Principal\Scripts\Draggable.cs" />
      <Compile Include="Assets\Principal\Scripts\DropZone.cs" />
  <Reference Include="UnityEngine.UI">

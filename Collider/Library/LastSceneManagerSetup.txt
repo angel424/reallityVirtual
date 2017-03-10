@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/scene/flappybirds.unity
+  isLoaded: 1
+  isActive: 1
